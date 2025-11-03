@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+SQLAlchemy==1.4.49
+psycopg2-binary
+pydantic
+python-dotenv
+APScheduler
+requests
+jinja2
+emails
+python-multipart
+aiofiles
+pydantic-settings
