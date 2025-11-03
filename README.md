@@ -1,7 +1,7 @@
 # Smart Pantry
 
 ## Project Overview
-Smart Pantry is a web-based application designed to help users manage their pantry items efficiently. Users can track stock levels, receive notifications for expiring items, and scan barcodes for easy item management.
+Smart Pantry is a web-based application, under develpment designed to help users manage their pantry items efficiently. Users can track stock levels, receive notifications for expiring items, and scan barcodes for easy item management.
 
 ---
 
